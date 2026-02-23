@@ -4,5 +4,6 @@ This project uses Inspect to compare the accuracy of Sonnet 3.5 (non-reasoning) 
 
 The results were that Sonnet 3.5 had a 69% accuracy with one prompt, 76% accuracy with the entire prompt repeated, and 77% accuracy with the two parts of the prompt repeated individually.
 
-https://github.com/user-attachments/assets/f0c8df8a-c024-4b59-a02c-70775992e360
+https://github.com/user-attachments/assets/2a06e06c-8f1d-413f-ab8f-41e9aa14a2ad
+
 
